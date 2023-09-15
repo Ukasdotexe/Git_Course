@@ -1,6 +1,6 @@
 # Git_Course
 Ukas Desktop Application
 
-# Projects Notes
-## Peojects Notes
+# **Ibrahim Tamahmachte**
+## 
 ### Projects Notes
